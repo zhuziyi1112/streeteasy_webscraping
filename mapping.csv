@@ -1,0 +1,320 @@
+neighborhood,Borough,MODZCTA
+Bayonne,NJ,07002
+Cliffside Park,NJ,07010
+Edgewater,NJ,07020
+Fort Lee,NJ,07024
+Harrison,NJ,07029
+Hoboken,NJ,07030
+Kearny,NJ,07032
+North Bergen,NJ,07047
+Weehawken,NJ,07086
+Union City,NJ,07087
+Guttenberg,NJ,07092
+West New York,NJ,07093
+Secaucus,NJ,07094
+Historic Downtown,NJ,07302
+Paulus Hook,NJ,07303
+West Side,NJ,07304
+Bergen/Lafayette,NJ,07305
+Journal Square,NJ,07306
+The Heights,NJ,07307
+Waterfront,NJ,07308
+Newport,NJ,07310
+Jersey City,NJ,07311
+New Jersey,NJ,07849
+Hudson Yards,Manhattan,10001
+Lower East Side,Manhattan,10002
+East Village,Manhattan,10003
+Two Bridges,Manhattan,10004
+Greenwich Village,Manhattan,10005
+Financial District,Manhattan,10006
+Stuyvesant Town/PCV,Manhattan,10009
+Gramercy Park,Manhattan,10010
+Flatiron,Manhattan,10010
+West Chelsea,Manhattan,10011
+Chelsea,Manhattan,10011
+Nolita,Manhattan,10012
+Noho,Manhattan,10012
+Chinatown,Manhattan,10013
+Little Italy,Manhattan,10013
+West Village,Manhattan,10014
+Hudson Square,Manhattan,10014
+Soho,Manhattan,10015
+NoMad,Manhattan,10016
+Kips Bay,Manhattan,10016
+Turtle Bay,Manhattan,10017
+Midtown South,Manhattan,10018
+Central Park South,Manhattan,10019
+Midtown,Manhattan,10019
+Lenox Hill,Manhattan,10021
+Beekman,Manhattan,10022
+Sutton Place,Manhattan,10022
+Lincoln Square,Manhattan,10023
+Upper West Side,Manhattan,10024
+Manhattan Valley,Manhattan,10025
+Morningside Heights,Manhattan,10025
+Central Harlem,Manhattan,10026
+West Harlem,Manhattan,10027
+Yorkville,Manhattan,10028
+Upper Carnegie Hill,Manhattan,10029
+South Harlem,Manhattan,10030
+Manhattanville,Manhattan,10031
+Hamilton Heights,Manhattan,10032
+Hudson Heights,Manhattan,10033
+Inwood,Manhattan,10034
+East Harlem,Manhattan,10035
+Hell's Kitchen,Manhattan,10036
+Manhattan,Manhattan,10037
+Fulton/Seaport,Manhattan,10038
+Civic Center,Manhattan,10038
+NYC and NJ,Manhattan,10038
+Fort George,Manhattan,10040
+Washington Heights,Manhattan,10040
+Roosevelt Island,Manhattan,10044
+Upper East Side,Manhattan,10065
+Carnegie Hill,Manhattan,10128
+Battery Park City,Manhattan,10280
+Tribeca,Manhattan,10282
+Saint George,Staten Island,10301
+Sunnyside (Staten Island),Staten Island,10301
+Emerson Hill,Staten Island,10301
+New Brighton,Staten Island,10301
+Silver Lake,Staten Island,10301
+Port Richmond,Staten Island,10302
+Arlington,Staten Island,10303
+Mariners Harbor,Staten Island,10303
+Elm Park,Staten Island,10303
+Clifton,Staten Island,10304
+Grymes Hill,Staten Island,10304
+Park Hill,Staten Island,10304
+Stapleton,Staten Island,10304
+Tompkinsville,Staten Island,10304
+Arrochar,Staten Island,10305
+Dongan Hills,Staten Island,10305
+Grasmere,Staten Island,10305
+Midland Beach,Staten Island,10305
+Rosebank,Staten Island,10305
+Shore Acres,Staten Island,10305
+South Beach,Staten Island,10305
+Bay Terrace,Staten Island,10306
+Oakwood Beach,Staten Island,10306
+Richmondtown,Staten Island,10306
+Grant City,Staten Island,10306
+Lighthouse Hill,Staten Island,10306
+New Dorp,Staten Island,10306
+New Dorp Beach,Staten Island,10306
+Oakwood,Staten Island,10306
+Tottenville,Staten Island,10307
+Staten Island,Staten Island,10307
+Great Kills,Staten Island,10308
+Woodrow,Staten Island,10309
+Princes Bay,Staten Island,10309
+Charleston,Staten Island,10309
+Pleasant Plains,Staten Island,10309
+Richmond Valley,Staten Island,10309
+Rossville,Staten Island,10309
+West Brighton,Staten Island,10310
+Annadale,Staten Island,10312
+Arden Heights,Staten Island,10312
+Eltingville,Staten Island,10312
+Greenridge,Staten Island,10312
+Huguenot,Staten Island,10312
+Meiers Corners,Staten Island,10314
+Bulls Head,Staten Island,10314
+Castleton Corners,Staten Island,10314
+Graniteville,Staten Island,10314
+New Springville,Staten Island,10314
+Todt Hill,Staten Island,10314
+Travis,Staten Island,10314
+Westerleigh,Staten Island,10314
+Willowbrook,Staten Island,10314
+Melrose,Bronx,10451
+Highbridge,Bronx,10452
+Morris Heights,Bronx,10453
+North New York,Bronx,10454
+Mott Haven,Bronx,10454
+Port Morris,Bronx,10454
+Woodstock,Bronx,10455
+Concourse,Bronx,10456
+Morrisania,Bronx,10456
+Mt. Hope,Bronx,10457
+Tremont,Bronx,10457
+Bedford Park,Bronx,10458
+Belmont,Bronx,10458
+Fordham,Bronx,10458
+Claremont,Bronx,10459
+Crotona Park East,Bronx,10459
+Longwood,Bronx,10459
+East Tremont,Bronx,10460
+Van Nest,Bronx,10460
+West Farms,Bronx,10460
+Morris Park,Bronx,10461
+Pelham Bay,Bronx,10461
+Schuylerville,Bronx,10461
+Westchester Square,Bronx,10461
+Westchester Village,Bronx,10462
+Parkchester,Bronx,10462
+Pelham Parkway,Bronx,10462
+Kingsbridge,Bronx,10463
+Riverdale,Bronx,10463
+Spuyten Duyvil,Bronx,10463
+Marble Hill,Bronx,10463
+City Island,Bronx,10464
+Locust Point,Bronx,10465
+Country Club,Bronx,10465
+Throgs Neck,Bronx,10465
+Edenwald,Bronx,10466
+Wakefield,Bronx,10466
+Bronxwood,Bronx,10467
+Norwood,Bronx,10467
+Laconia,Bronx,10467
+Kingsbridge Heights,Bronx,10468
+University Heights,Bronx,10468
+Baychester,Bronx,10469
+Pelham Gardens,Bronx,10469
+Williamsbridge,Bronx,10469
+Woodlawn,Bronx,10470
+Fieldston,Bronx,10471
+Castle Hill,Bronx,10473
+Soundview,Bronx,10473
+Hunts Point,Bronx,10474
+Eastchester,Bronx,10475
+Bronx,Bronx,10475
+Floral Park,Queens,11002
+New Hyde Park,Queens,11040
+Hunters Point,Queens,11101
+Astoria,Queens,11103
+Ditmars-Steinway,Queens,11105
+Long Island City,Queens,11109
+DUMBO,Brooklyn,11201
+Brooklyn Heights,Brooklyn,11201
+Cobble Hill,Brooklyn,11201
+Vinegar Hill,Brooklyn,11201
+Flatbush,Brooklyn,11203
+East Flatbush,Brooklyn,11203
+Borough Park,Brooklyn,11204
+Bensonhurst,Brooklyn,11204
+Mapleton,Brooklyn,11204
+Fort Greene,Brooklyn,11205
+Clinton Hill,Brooklyn,11205
+Bedford-Stuyvesant,Brooklyn,11206
+New Lots,Brooklyn,11207
+City Line,Brooklyn,11208
+East New York,Brooklyn,11208
+Bay Ridge,Brooklyn,11209
+Fort Hamilton,Brooklyn,11209
+Farragut,Brooklyn,11210
+Midwood,Brooklyn,11210
+Greenpoint,Brooklyn,11211
+East Williamsburg,Brooklyn,11211
+Brownsville,Brooklyn,11212
+Weeksville,Brooklyn,11213
+Wingate,Brooklyn,11213
+Gowanus,Brooklyn,11215
+Park Slope,Brooklyn,11215
+Windsor Terrace,Brooklyn,11215
+Crown Heights,Brooklyn,11216
+Boerum Hill,Brooklyn,11217
+Downtown Brooklyn,Brooklyn,11217
+Kensington,Brooklyn,11218
+Sunset Park,Brooklyn,11220
+Bushwick,Brooklyn,11221
+Gravesend,Brooklyn,11223
+Seagate,Brooklyn,11224
+Coney Island,Brooklyn,11224
+Prospect Lefferts Gardens,Brooklyn,11225
+Ditmas Park,Brooklyn,11226
+Prospect Park South,Brooklyn,11226
+Bath Beach,Brooklyn,11228
+Dyker Heights,Brooklyn,11228
+Gerritsen Beach,Brooklyn,11229
+Homecrest,Brooklyn,11229
+Fiske Terrace,Brooklyn,11230
+Columbia St Waterfront District,Brooklyn,11231
+Carroll Gardens,Brooklyn,11231
+Red Hook,Brooklyn,11231
+Greenwood,Brooklyn,11232
+Ocean Hill,Brooklyn,11233
+Stuyvesant Heights,Brooklyn,11233
+Bergen Beach,Brooklyn,11234
+Old Mill Basin,Brooklyn,11234
+Flatlands,Brooklyn,11234
+Marine Park,Brooklyn,11234
+Mill Basin,Brooklyn,11234
+Brighton Beach,Brooklyn,11235
+Manhattan Beach,Brooklyn,11235
+Sheepshead Bay,Brooklyn,11235
+Canarsie,Brooklyn,11236
+Prospect Heights,Brooklyn,11238
+Starrett City,Brooklyn,11239
+Williamsburg,Brooklyn,11249
+East Flushing,Queens,11355
+Flushing,Queens,11355
+College Point,Queens,11356
+Beechhurst,Queens,11357
+Clearview,Queens,11357
+Malba,Queens,11357
+Whitestone,Queens,11357
+Auburndale,Queens,11358
+Murray Hill (Queens),Queens,11358
+Murray Hill,Queens,11358
+Bay Terrace (Queens),Queens,11360
+Bayside,Queens,11361
+Little Neck,Queens,11362
+Douglaston,Queens,11363
+Oakland Gardens,Queens,11364
+Hillcrest,Queens,11365
+Fresh Meadows,Queens,11366
+Pomonok,Queens,11366
+Utopia,Queens,11366
+Kew Gardens Hills,Queens,11367
+Corona,Queens,11368
+North Corona,Queens,11368
+East Elmhurst,Queens,11369
+Jackson Heights,Queens,11372
+Elmhurst,Queens,11373
+Middle Village,Queens,11373
+Rego Park,Queens,11374
+Forest Hills,Queens,11375
+Woodside,Queens,11377
+Sunnyside,Queens,11377
+Maspeth,Queens,11378
+Ridgewood,Queens,11379
+Glendale,Queens,11385
+Jamaica,Queens,11412
+Hollis,Queens,11412
+St. Albans,Queens,11412
+Brookville,Queens,11413
+Laurelton,Queens,11413
+Springfield Gardens,Queens,11413
+Hamilton Beach,Queens,11414
+Old Howard Beach,Queens,11414
+Rockwood Park,Queens,11414
+Lindenwood,Queens,11414
+Kew Gardens,Queens,11415
+Ozone Park,Queens,11417
+Richmond Hill,Queens,11418
+South Richmond Hill,Queens,11419
+South Ozone Park,Queens,11420
+Woodhaven,Queens,11421
+Rosedale,Queens,11422
+Bellerose,Queens,11426
+Glen Oaks,Queens,11426
+Queens,Queens,11427
+Cambria Heights,Queens,11429
+Queens Village,Queens,11429
+Jamaica Estates,Queens,11432
+Jamaica Hills,Queens,11432
+South Jamaica,Queens,11434
+Briarwood,Queens,11435
+Bayswater,Queens,11691
+Edgemere,Queens,11691
+Far Rockaway,Queens,11691
+Arverne,Queens,11692
+Broad Channel,Queens,11693
+Hammels,Queens,11693
+Rockaway All,Queens,11693
+Belle Harbor,Queens,11694
+Neponsit,Queens,11694
+Rockaway Park,Queens,11694
+Breezy Point,Queens,11697

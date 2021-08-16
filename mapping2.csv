@@ -1,0 +1,23 @@
+RentalType,NewType,BuildingType
+Building,Regular,Commercial Building
+Commercial Building,Regular,Commercial Building
+Condo,Regular,Condo
+Condop,Regular,Condo
+New Development Condo,New Development,Condo
+New Development Condop,New Development,Condo
+Co-op,Regular,Co-op
+New Development Co-op,New Development,Co-op
+Four-Family Home,Regular,Family Home
+Multi-family,Regular,Family Home
+Three-Family Home,Regular,Family Home
+Two-Family Home,Regular,Family Home
+House,Regular,House / Townhouse
+Townhouse,Regular,House / Townhouse
+Mixed-Use Building,Regular,Mixed-Use Building
+Other type,Regular,Other type
+Vacant Lot,Regular,Other type
+New Development Apartment,New Development,Rental Building
+Apartment,Regular,Rental Building
+New Development Rental Unit,New Development,Rental Building
+Rental Building,Regular,Rental Building
+Rental Unit,Regular,Rental Building
